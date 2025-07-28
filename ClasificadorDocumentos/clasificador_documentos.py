@@ -1,4 +1,5 @@
 #  Clasificador y Gestor de Documentos de Proyectos.
+#  Autor Patricio Becar Elissegaray
 # Aquí es donde organizaremos todos esos planos, informes e imágenes.
 
 import json # Necesitamos esta herramienta para guardar y cargar tus documentos. 
