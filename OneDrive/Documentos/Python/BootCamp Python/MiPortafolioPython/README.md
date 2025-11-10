@@ -30,3 +30,5 @@ Arquitecto | Innovador AECO | Desarrollador de soluciones digitales
 
 El siguiente diagrama resume las relaciones entre las principales entidades del modelo de datos de este módulo:
 
+Se adjuntan imagenes 
+

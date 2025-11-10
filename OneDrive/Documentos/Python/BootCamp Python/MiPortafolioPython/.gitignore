@@ -1,0 +1,34 @@
+# Compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+env/
+.portafolio/
+
+# Archivos personales/temporales/vscode/pycharm
+*.log
+*.pot
+*.mo
+*.sqlite3
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Archivos de base de datos (Django default)
+db.sqlite3
+
+# Media/static y otros uploads (si corresponde)
+media/
+staticfiles/
+
+# Ignorar todos los archivos .env o de configuración sensible
+.env
+.env.*
+
+# Archivos de dump de pip
+pip-selfcheck.json
